@@ -3,9 +3,13 @@
     padding: 50px auto;
     /* text-align: center; */
      margin-left: 30%;
+     margin-top: 5%;
+     box-shadow:0 0 10px green;
+     border: 1px solid grey;
+     border-radius: 5px;
 }
-.input-group mb-3{
-    text-align: center;
-   
+ input{
+    width: 600px;
+      margin-left: 10%;
+}
 
-}
